@@ -1,0 +1,7 @@
+{
+  "name": "web-server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module"
+}
